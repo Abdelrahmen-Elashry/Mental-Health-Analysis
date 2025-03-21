@@ -1,6 +1,7 @@
-# 🎓📖 The Impact of Academic Stress on Mental Health Among Egyptian University Students
+#  🎓📖 Academic Stress & Mental Health - Unveiling the Impact of Academic Pressure on Egyptian University Students Using Data Analysis & BI Tools
 DEPI Data Analysis Graduation Project
 ## 📖 Table of Contents
+
 1. [Executive Summary](#-executive-summary)
 2. [Project Objectives](#-project-objectives)
 3. [Dataset Overview](#-dataset-overview)
@@ -12,7 +13,8 @@ DEPI Data Analysis Graduation Project
 9. [Deliverables](#-deliverables)
 10. [Roles & Responsibilities](#-roles--responsibilities)
 11. [Future Enhancements](#-future-enhancements)
-12. [Contact Information](#-contact-information)
+12. [About](#-about)
+13. [Contact Information](#-contact-information)
 
 ## 📌 Executive Summary
 
@@ -107,12 +109,12 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 ## 📅 Project Timeline & Milestones
 
-| Phase   | Key Activities                         | Duration |
-| ------- | -------------------------------------- | -------- |
-| Phase 1 | Data Collection & Cleaning             | Week 1-2 |
-| Phase 2 | Statistical Analysis & Reports         | Week 3-4 |
-| Phase 3 | Data Visualization & Machine learning  | Week 5-6 |
-| Phase 4 | Final Report & Recommendations         | Week 7   |
+| Phase   | Key Activities                  | Duration |
+| ------- | ------------------------------- | -------- |
+| Phase 1 | Data Collection & Cleaning      | Week 1-2 |
+| Phase 2 | Statistical Analysis & Reports  | Week 3-4 |
+| Phase 3 | Data Visualization (Dashboards) | Week 5-6 |
+| Phase 4 | Final Report & Recommendations  | Week 7   |
 
 ## 🚀 Deliverables
 
@@ -130,12 +132,14 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 ## 👥 Roles & Responsibilities
 
-| Team Member          | Role                                   | Main Responsibilities           |
-| -------------------- | -------------------------------------- | ------------------------------- |
-| Ahmed Elmekawy       | Team Leader & Database Manager         | Normalization, Table Creation   |
-| Abdelrahmen Elashry  | Data Visualization Specialist          | Data Visualization, Cleaning    |
-| Hajar Hasabala       | Research & Survey Analyst              | Data Collection, Analysis & ERD |
-| Mariam Rabie         | Python Specialist & Documentation Lead | Code Optimization, Presentation |
+| Team Member         | Role                                   | Main Responsibilities           | LinkedIn                                                |
+| ------------------- | -------------------------------------- | ------------------------------- | ------------------------------------------------------- |
+| Ahmed Elmekawy      | Team Leader & Database Manager         | Normalization, Table Creation   | [LinkedIn](https://www.linkedin.com/in/ahmed-el-mekawy) |
+| Abdelrahmen Elashry | Data Visualization Specialist          | Data Visualization, Cleaning    | [LinkedIn](www.linkedin.com/in/abdelrahmen-elashry)     |
+| Hajar Hasabala      | Research & Survey Analyst              | Data Collection, Analysis & EDA | [LinkedIn](https://www.linkedin.com/in/hajar-hasaballa) |
+| Mariam Rabie        | Python Specialist & Documentation Lead | Code Optimization, Presentation | [LinkedIn](https://www.linkedin.com/in/mariam-mmr/)     |
+
+
 
 ## 🔮 Future Enhancements
 
@@ -144,14 +148,18 @@ The study is based on data collected from a cross-sectional online survey (Googl
 - Integrate AI-driven predictive models for mental health risk assessment.
 - Develop a web-based dashboard for real-time monitoring of student well-being.
 
-
 ## 📩 Contact Information
 
-📧 Email:  [Statsphere Team](statsphereteam@gmail.com)
+📧 Email: [statsphereteam@gmail.com](mailto\:statsphereteam@gmail.com)
 
-## 📌 Contributions & Support
+## ⭐ Contributions & Support
 
+📌 **Data Ownership & Copyright Notice**
 All data and analysis in this project are the exclusive property of the Statsphere Team. Unauthorized use, reproduction, or distribution without permission is strictly prohibited. All rights reserved © 2025 Statsphere Team.
+
+If you find this project valuable, give it a ⭐ on GitHub and contribute via pull requests!
+
+© 2025 Statsphere Team. All Rights Reserved.
 
 
 
