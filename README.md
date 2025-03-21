@@ -42,7 +42,7 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 #### **Main Project Question:**
 
-- What is The Impact of Academic Stress on Mental Health Among Egyptian University Students ?
+- What is The Impact of Academic Stress on Mental Health Among Egyptian University Students?
 
 #### **Sub-Questions:**
 
@@ -60,7 +60,7 @@ The study is based on data collected from a cross-sectional online survey (Googl
 | Data Collection       | Google Forms |
 | Database              | MySQL        |
 | Data Processing       | Python       |
-| Business Intelligence | Tableau      |
+| Data Visualization    | Tableau      |
 | Version Control       | Git, GitHub  |
 
 ## 🔬 Methodology
@@ -114,7 +114,7 @@ The study is based on data collected from a cross-sectional online survey (Googl
 | Phase 1 | Data Collection & Cleaning               | Week 1-2 |
 | Phase 2 | Statistical Analysis & Reports           | Week 3-4 |
 | Phase 3 | Data Visualization & Predective Modeling | Week 5-6 |
-| Phase 4 | Final Report & Recommendations           | Week 7   |
+| Phase 4 | Final Report & Presentation              | Week 7   |
 
 ## 🚀 Deliverables
 
@@ -132,12 +132,12 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 ## 👥 Roles & Responsibilities
 
-| Team Member         | Role                                   | Main Responsibilities           | LinkedIn                                                |
-| ------------------- | -------------------------------------- | ------------------------------- | ------------------------------------------------------- |
-| Ahmed Elmekawy      | Team Leader & Database Manager         | Normalization, Table Creation   | [LinkedIn](https://www.linkedin.com/in/ahmed-el-mekawy) |
-| Abdelrahmen Elashry | Data Visualization Specialist          | Data Visualization, Cleaning    | [LinkedIn](www.linkedin.com/in/abdelrahmen-elashry)     |
-| Hajar Hasabala      | Research & Survey Analyst              | Data Collection, Analysis & EDA | [LinkedIn](https://www.linkedin.com/in/hajar-hasaballa) |
-| Mariam Rabie        | Python Specialist & Documentation Lead | Code Optimization,ML, Presentation | [LinkedIn](https://www.linkedin.com/in/mariam-mmr/)     |
+| Team Member         | Role                               | Main Responsibilities         | LinkedIn                                                |
+| ------------------- | ---------------------------------- | ----------------------------- | ------------------------------------------------------- |
+| Ahmed Elmekawy      | Team Leader & Database Manager     | Normalization, Table Creation | [LinkedIn](https://www.linkedin.com/in/ahmed-el-mekawy) |
+| Abdelrahmen Elashry | Data Visualization Specialist      | Data Visualization, Cleaning  | [LinkedIn](www.linkedin.com/in/abdelrahmen-elashry)     |
+| Hajar Hasabala      | Research & Survey Analyst          | Data Collection, Analysis     | [LinkedIn](https://www.linkedin.com/in/hajar-hasaballa) |
+| Mariam Rabie        | ML Specialist & Documentation Lead | Model Training, Presentation  | [LinkedIn](https://www.linkedin.com/in/mariam-mmr/)     |
 
 
 
