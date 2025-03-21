@@ -1,4 +1,4 @@
-# 🎓📖 Academic Stress on Mental Health Among Egyptian University Students
+# 🎓📖 The Impact of Academic Stress on Mental Health Among Egyptian University Students
 Graduation Project from DEPI Google Data Analysis Track
 
 ## 📖 Table of Contents
