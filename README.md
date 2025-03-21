@@ -132,12 +132,12 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 ## 👥 Roles & Responsibilities
 
-| Team Member         | Role                               | Main Responsibilities         | LinkedIn                                                |
-| ------------------- | ---------------------------------- | ----------------------------- | ------------------------------------------------------- |
-| Ahmed Elmekawy      | Team Leader & Database Manager     | Normalization, Table Creation | [LinkedIn](https://www.linkedin.com/in/ahmed-el-mekawy) |
-| Abdelrahmen Elashry | Data Visualization Specialist      | Data Visualization, Cleaning  | [LinkedIn](www.linkedin.com/in/abdelrahmen-elashry)     |
-| Hajar Hasabala      | Research & Survey Analyst          | Data Collection, Analysis     | [LinkedIn](https://www.linkedin.com/in/hajar-hasaballa) |
-| Mariam Rabie        | ML Specialist & Documentation Lead | Model Training, Presentation  | [LinkedIn](https://www.linkedin.com/in/mariam-mmr/)     |
+| Team Member         | Role                               | Main Responsibilities         | LinkedIn                                                       |
+| ------------------- | ---------------------------------- | ----------------------------- | -------------------------------------------------------------- |
+| Ahmed Elmekawy      | Team Leader & Database Manager     | Normalization, Table Creation | [Ahmed_Elmekawy](https://www.linkedin.com/in/ahmed-el-mekawy)  |
+| Abdelrahmen Elashry | Data Visualization Specialist      | Data Visualization, Cleaning  | [Abdelrahmen_Elashry](www.linkedin.com/in/abdelrahmen-elashry) |
+| Hajar Hasabala      | Research & Survey Analyst          | Data Collection, Analysis     | [Hajar_Hasaballa](https://www.linkedin.com/in/hajar-hasaballa) |
+| Mariam Rabie        | ML Specialist & Documentation Lead | Model Training, Presentation  | [Mariam_Rabi](https://www.linkedin.com/in/mariam-mmr)          |
 
 
 
