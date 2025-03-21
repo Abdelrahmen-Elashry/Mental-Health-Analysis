@@ -1,5 +1,5 @@
-#  🎓📖 Academic Stress & Mental Health - Unveiling the Impact of Academic Pressure on Egyptian University Students Using Data Analysis & BI Tools
-DEPI Data Analysis Graduation Project
+#  🎓📖 The Impact of Academic Stress on Mental Health Among Egyptian University Students  Using Data Analysis & BI Tools
+ Graduation Project from DEPI Google Data Analysis Track 
 ## 📖 Table of Contents
 
 1. [Executive Summary](#-executive-summary)
