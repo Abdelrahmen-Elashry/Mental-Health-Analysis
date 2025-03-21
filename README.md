@@ -1,30 +1,18 @@
 # The Impact of Academic Stress on Mental Health Among Egyptian University Students
-📖 Table of Contents
 
-Executive Summary
-
-Project Objectives
-
-Dataset Overview
-
-Project Questions
-
-Technologies & Tools
-
-Methodology
-
-Key Performance Indicators (KPIs)
-
-Project Timeline & Milestones
-
-Deliverables
-
-Roles & Responsibilities
-
-Future Enhancements
-
-
-Contact Information
+## 📖 Table of Contents
+1. [Executive Summary](#-executive-summary)
+2. [Project Objectives](#-project-objectives)
+3. [Dataset Overview](#-dataset-overview)
+4. [Project Questions](#-project-questions)
+5. [Technologies & Tools](#-technologies--tools)
+6. [Methodology](#-methodology)
+7. [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
+8. [Project Timeline & Milestones](#-project-timeline--milestones)
+9. [Deliverables](#-deliverables)
+10. [Roles & Responsibilities](#-roles--responsibilities)
+11. [Future Enhancements](#-future-enhancements)
+12. [Contact Information](#-contact-information)
 
 ## 📌 Executive Summary
 
@@ -156,6 +144,7 @@ The study is based on data collected from a cross-sectional online survey (Googl
 - Integrate AI-driven predictive models for mental health risk assessment.
 - Develop a web-based dashboard for real-time monitoring of student well-being.
 
+
 ## 📩 Contact Information
 
 📧 Email: [Statsphere@university.edu](mailto\:Statsphere@university.edu) "Virtual"\
@@ -166,4 +155,6 @@ The study is based on data collected from a cross-sectional online survey (Googl
 If you find this project valuable, give it a ⭐ on GitHub and contribute via pull requests!
 
 © 2025 Statsphere Team. All Rights Reserved.
+
+
 
