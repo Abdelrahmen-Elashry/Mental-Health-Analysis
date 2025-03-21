@@ -137,7 +137,7 @@ The study is based on data collected from a cross-sectional online survey (Googl
 | Ahmed Elmekawy      | Team Leader & Database Manager         | Normalization, Table Creation   | [LinkedIn](https://www.linkedin.com/in/ahmed-el-mekawy) |
 | Abdelrahmen Elashry | Data Visualization Specialist          | Data Visualization, Cleaning    | [LinkedIn](www.linkedin.com/in/abdelrahmen-elashry)     |
 | Hajar Hasabala      | Research & Survey Analyst              | Data Collection, Analysis & EDA | [LinkedIn](https://www.linkedin.com/in/hajar-hasaballa) |
-| Mariam Rabie        | Python Specialist & Documentation Lead | Code Optimization, Presentation | [LinkedIn](https://www.linkedin.com/in/mariam-mmr/)     |
+| Mariam Rabie        | Python Specialist & Documentation Lead | Code Optimization,ML, Presentation | [LinkedIn](https://www.linkedin.com/in/mariam-mmr/)     |
 
 
 
