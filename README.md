@@ -157,9 +157,6 @@ The study is based on data collected from a cross-sectional online survey (Googl
 📌 **Data Ownership & Copyright Notice**
 All data and analysis in this project are the exclusive property of the Statsphere Team. Unauthorized use, reproduction, or distribution without permission is strictly prohibited. All rights reserved © 2025 Statsphere Team.
 
-If you find this project valuable, give it a ⭐ on GitHub and contribute via pull requests!
-
-© 2025 Statsphere Team. All Rights Reserved.
 
 
 
