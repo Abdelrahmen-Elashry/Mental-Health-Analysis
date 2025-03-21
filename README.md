@@ -1,5 +1,6 @@
-#  🎓📖 Academic Stress on Mental Health Among Egyptian University Students
- Graduation Project from DEPI Google Data Analysis Track 
+# 🎓📖 Academic Stress on Mental Health Among Egyptian University Students
+Graduation Project from DEPI Google Data Analysis Track
+
 ## 📖 Table of Contents
 
 1. [Executive Summary](#-executive-summary)
@@ -13,8 +14,7 @@
 9. [Deliverables](#-deliverables)
 10. [Roles & Responsibilities](#-roles--responsibilities)
 11. [Future Enhancements](#-future-enhancements)
-12. [About](#-about)
-13. [Contact Information](#-contact-information)
+12. [Contact Information](#-contact-information)
 
 ## 📌 Executive Summary
 
@@ -38,7 +38,7 @@ The study is based on data collected from a cross-sectional online survey (Googl
 - **Perceived Stress Scale (PSS)** to measure stress levels.
 - **Academic Stress Scale** to evaluate stressors related to coursework and exams.
 
-### 📝 Project Questions 
+## 📝 Project Questions 
 
 #### **Main Project Question:**
 
@@ -66,46 +66,28 @@ The study is based on data collected from a cross-sectional online survey (Googl
 ## 🔬 Methodology
 
 1. **Data Collection & Cleaning** (🚧 In Progress)
-
    - Collected survey responses from university students.
    - Removed inconsistencies and null values.
    - Standardized responses for statistical analysis.
 
 2. **Data Analysis & Visualization** (🚧 In Progress)
-
    - Applied statistical tests to identify key predictors of academic stress and depression.
    - Developed visual reports using Power BI and Tableau.
 
 3. **Reporting & Recommendations** (🔜 Future Work)
-
    - Prepare a comprehensive report detailing findings and suggestions.
    - Provide policy recommendations for student mental health support.
 
 ## 📊 Key Performance Indicators (KPIs)
 
 - Percentage of students experiencing moderate to severe depression.
-
 - Stress level distribution among students.
-
 - Correlation between academic workload and mental health.
-
 - Differences in stress levels based on gender, academic level, and employment status.
-
 - Impact of study hours per week on perceived stress levels.
-
 - Relationship between academic stress and physical symptoms (e.g., headaches, fatigue).
-
 - Percentage of students seeking mental health support services.
-
 - Comparison of stress levels between students in different fields of study.
-
-- Percentage of students experiencing moderate to severe depression.
-
-- Stress level distribution among students.
-
-- Correlation between academic workload and mental health.
-
-- Differences in stress levels based on gender, academic level, and employment status.
 
 ## 📅 Project Timeline & Milestones
 
@@ -113,33 +95,27 @@ The study is based on data collected from a cross-sectional online survey (Googl
 | ------- | ---------------------------------------- | -------- |
 | Phase 1 | Data Collection & Cleaning               | Week 1-2 |
 | Phase 2 | Statistical Analysis & Reports           | Week 3-4 |
-| Phase 3 | Data Visualization & Predective Modeling | Week 5-6 |
-| Phase 4 | Final Report & Presentation              | Week 7   |
+| Phase 3 | Data Visualization | Week 5 |
+|  Phase 4       | Predictive Modeling | Week 6 |
+| Phase 5 | Final Report & Presentation              | Week 7   |
 
 ## 🚀 Deliverables
 
 - Cleaned & structured dataset
-
 - Statistical analysis report (Power BI & Tableau)
-
 - Interactive Tableau dashboards for data visualization
-
 - Research findings summary with key insights
-
 - Final research paper & presentation
-
 - Recommendations for academic stress mitigation
 
 ## 👥 Roles & Responsibilities
 
-| Team Member         | Role                               | Main Responsibilities         | LinkedIn                                                               |
-| ------------------- | ---------------------------------- | ----------------------------- | ---------------------------------------------------------------------- |
-| Ahmed Elmekawy      | Team Leader & Database Manager     | Normalization, Table Creation | [Ahmed_Elmekawy](https://www.linkedin.com/in/ahmed-el-mekawy)          |
-| Abdelrahmen Elashry | Data Visualization Specialist      | Data Visualization, Cleaning  | [Abdelrahmen_Elashry](https://www.linkedin.com/in/abdelrahmen-elashry) |
-| Hajar Hasabala      | Research & Survey Analyst          | Data Collection, Analysis     | [Hajar_Hasaballa](https://www.linkedin.com/in/hajar-hasaballa)         |
-| Mariam Rabie        | ML Specialist & Documentation Lead | Model Training, Presentation  | [Mariam_Rabi](https://www.linkedin.com/in/mariam-mmr)                  |
-
-
+| Team Member         | Role                               | Main Responsibilities         |
+| ------------------- | ---------------------------------- | ----------------------------- |
+| [Ahmed Elmekawy](https://www.linkedin.com/in/ahmed-el-mekawy)      | Team Leader & Database Manager     | Normalization, Table Creation |
+| [Abdelrahmen Elashry](https://www.linkedin.com/in/abdelrahmen-elashry) | Data Visualization Specialist      | Data Visualization, Cleaning  |
+| [Hajar Hasabala](https://www.linkedin.com/in/hajar-hasaballa)      | Research & Survey Analyst          | Data Collection, Analysis     |
+| [Mariam Rabie](https://www.linkedin.com/in/mariam-mmr)        | ML Specialist & Documentation Lead | Model Training, Presentation  |
 
 ## 🔮 Future Enhancements
 
@@ -150,12 +126,13 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 ## 📩 Contact Information
 
-📧 Email: [statsphereteam@gmail.com](mailto\:statsphereteam@gmail.com)
+📧 Email: [statsphereteam@gmail.com](mailto:statsphereteam@gmail.com)
 
 ## ⭐ Contributions & Support
 
-📌 **Data Ownership & Copyright Notice**
-All data and analysis in this project are the exclusive property of the Statsphere Team. Unauthorized use, reproduction, or distribution without permission is strictly prohibited. All rights reserved © 2025 Statsphere Team.
+📌 **Data Ownership & Copyright Notice**  
+All data and analysis in this project are the exclusive property of the Statsphere Team. Unauthorized use, reproduction, or distribution without permission is strictly prohibited.  
+All rights reserved © 2025 Statsphere Team.
 
 
 
