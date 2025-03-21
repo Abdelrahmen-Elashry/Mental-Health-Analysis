@@ -147,7 +147,7 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 ## 📩 Contact Information
 
-📧 Email: [Statsphere@university.edu](mailto\:Statsphere@university.edu) "Virtual"\
+📧 Email: [Statsphere@university.edu](mailto\:Statsphere@gmail.com ) "Virtual"\
 🔗 LinkedIn: [Statsphere Team](https://linkedin.com/Statsphere-Team) "Virtual"
 
 ## ⭐ Contributions & Support
