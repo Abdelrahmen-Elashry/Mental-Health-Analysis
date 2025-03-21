@@ -147,7 +147,7 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 ## 📩 Contact Information
 
-📧 Email:  [Statsphere Team Email](statsphereteam@gmail.com)
+📧 Email:  [Statsphere Team](statsphereteam@gmail.com)
 
 ## 📌 Contributions & Support
 
