@@ -59,7 +59,7 @@ The study is based on data collected from a cross-sectional online survey (Googl
 | --------------------- | ------------ |
 | Data Collection       | Google Forms |
 | Database              | MySQL        |
-| Data Processing       | Pandas       |
+| Data Processing       | Python       |
 | Business Intelligence | Tableau      |
 | Version Control       | Git, GitHub  |
 
@@ -109,12 +109,12 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 ## 📅 Project Timeline & Milestones
 
-| Phase   | Key Activities                  | Duration |
-| ------- | ------------------------------- | -------- |
-| Phase 1 | Data Collection & Cleaning      | Week 1-2 |
-| Phase 2 | Statistical Analysis & Reports  | Week 3-4 |
-| Phase 3 | Data Visualization (Dashboards) | Week 5-6 |
-| Phase 4 | Final Report & Recommendations  | Week 7   |
+| Phase   | Key Activities                           | Duration |
+| ------- | ---------------------------------------- | -------- |
+| Phase 1 | Data Collection & Cleaning               | Week 1-2 |
+| Phase 2 | Statistical Analysis & Reports           | Week 3-4 |
+| Phase 3 | Data Visualization & Predective Modeling | Week 5-6 |
+| Phase 4 | Final Report & Recommendations           | Week 7   |
 
 ## 🚀 Deliverables
 
