@@ -107,12 +107,12 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 ## 📅 Project Timeline & Milestones
 
-| Phase   | Key Activities                  | Duration |
-| ------- | ------------------------------- | -------- |
-| Phase 1 | Data Collection & Cleaning      | Week 1-2 |
-| Phase 2 | Statistical Analysis & Reports  | Week 3-4 |
-| Phase 3 | Data Visualization (Dashboards) | Week 5-6 |
-| Phase 4 | Final Report & Recommendations  | Week 7   |
+| Phase   | Key Activities                         | Duration |
+| ------- | -------------------------------------- | -------- |
+| Phase 1 | Data Collection & Cleaning             | Week 1-2 |
+| Phase 2 | Statistical Analysis & Reports         | Week 3-4 |
+| Phase 3 | Data Visualization & Machine learning  | Week 5-6 |
+| Phase 4 | Final Report & Recommendations         | Week 7   |
 
 ## 🚀 Deliverables
 
@@ -130,12 +130,12 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 ## 👥 Roles & Responsibilities
 
-| Team Member          | Role                           | Responsibilities               |
-| -------------------- | ------------------------------ | ------------------------------ |
-| Ahmed Elmekawy       | Team Leader & Database Manager | Normalization, Table Creation  |
-| Abdelrahmen Elashry  | Data Visualization Specialist  | Data Visualization (Tableau)   |
-| Hajar Hasabala       | Research & Survey Analyst      | Data Collection& Analysis &ERD |
-| Mariam Rabia         | Reporting & Documentation Lead | Report & Presentation          |
+| Team Member          | Role                                   | Main Responsibilities           |
+| -------------------- | -------------------------------------- | ------------------------------- |
+| Ahmed Elmekawy       | Team Leader & Database Manager         | Normalization, Table Creation   |
+| Abdelrahmen Elashry  | Data Visualization Specialist          | Data Visualization, Cleaning    |
+| Hajar Hasabala       | Research & Survey Analyst              | Data Collection, Analysis & ERD |
+| Mariam Rabie         | Python Specialist & Documentation Lead | Code Optimization, Presentation |
 
 ## 🔮 Future Enhancements
 
