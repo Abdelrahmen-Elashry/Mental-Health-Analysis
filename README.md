@@ -132,7 +132,7 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 | Team Member          | Role                           | Responsibilities               |
 | -------------------- | ------------------------------ | ------------------------------ |
-| Ahmed Elmekawy       | Team Leader & Database         | Normalization, Table Creation  |
+| Ahmed Elmekawy       | Team Leader & Database Manager | Normalization, Table Creation  |
 | Abdelrahmen Elashry  | Data Visualization Specialist  | Data Visualization (Tableau)   |
 | Hajar Hasabala       | Research & Survey Analyst      | Data Collection& Analysis &ERD |
 | Mariam Rabia         | Reporting & Documentation Lead | Report & Presentation          |
