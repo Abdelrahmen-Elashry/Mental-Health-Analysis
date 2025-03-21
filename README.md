@@ -1,4 +1,30 @@
 # The Impact of Academic Stress on Mental Health Among Egyptian University Students
+📖 Table of Contents
+
+Executive Summary
+
+Project Objectives
+
+Dataset Overview
+
+Project Questions
+
+Technologies & Tools
+
+Methodology
+
+Key Performance Indicators (KPIs)
+
+Project Timeline & Milestones
+
+Deliverables
+
+Roles & Responsibilities
+
+Future Enhancements
+
+
+Contact Information
 
 ## 📌 Executive Summary
 
