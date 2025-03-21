@@ -1,5 +1,5 @@
-# The Impact of Academic Stress on Mental Health Among Egyptian University Students
-
+# 🎓📖 The Impact of Academic Stress on Mental Health Among Egyptian University Students
+DEPI Data Analysis Graduation Project
 ## 📖 Table of Contents
 1. [Executive Summary](#-executive-summary)
 2. [Project Objectives](#-project-objectives)
@@ -147,14 +147,12 @@ The study is based on data collected from a cross-sectional online survey (Googl
 
 ## 📩 Contact Information
 
-📧 Email: [Statsphere@university.edu](mailto\:Statsphere@gmail.com ) "Virtual"\
-🔗 LinkedIn: [Statsphere Team](https://linkedin.com/Statsphere-Team) "Virtual"
+📧 Email:  [Statsphere Team Email](statsphereteam@gmail.com)
 
-## ⭐ Contributions & Support
+## 📌 Contributions & Support
 
-If you find this project valuable, give it a ⭐ on GitHub and contribute via pull requests!
+All data and analysis in this project are the exclusive property of the Statsphere Team. Unauthorized use, reproduction, or distribution without permission is strictly prohibited. All rights reserved © 2025 Statsphere Team.
 
-© 2025 Statsphere Team. All Rights Reserved.
 
 
 
