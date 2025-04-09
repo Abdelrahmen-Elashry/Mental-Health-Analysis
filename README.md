@@ -30,7 +30,7 @@ This project aims to analyze the impact of academic stress on the mental health 
 
 ## 📁 Dataset Overview
 
-🔗 **Survey Link:** [Academic Stress & Mental Health Survey](https://forms.gle/jNARfRByFCvCjHtk8)
+🔗 **Survey Link:** [Academic Stress & Mental Health Survey]([https://forms.gle/jNARfRByFCvCjHtk8](https://docs.google.com/forms/d/e/1FAIpQLSdpt0wL3WpQgHXFry_B73VK-ovqNqSSkeV8Yfh5yMcqI5-GYw/viewform?usp=dialog))
 
 The study is based on data collected from a cross-sectional online survey (Google Form) conducted on Egyptian university students enrolled in Bachelor's, Diploma, Master's, and Ph.D. programs. The survey included:
 
