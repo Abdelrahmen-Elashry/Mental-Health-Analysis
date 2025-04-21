@@ -60,12 +60,12 @@ The study is based on data collected from a cross-sectional online survey (Googl
 | Data Collection       | Google Forms |
 | Database              | MySQL        |
 | Data Processing       | Python       |
-| Data Visualization    | Tableau      |
+| Data Visualization    | Power BI     |
 | Version Control       | Git, GitHub  |
 
 ## 🔬 Methodology
 
-1. **Data Collection & Cleaning** (🚧 In Progress)
+1. **Data Collection & Cleaning** (✅ Done)
    - Collected survey responses from university students.
    - Removed inconsistencies and null values.
    - Standardized responses for statistical analysis.
