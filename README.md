@@ -78,12 +78,12 @@ The dataset contains responses from Egyptian university students across differen
 
 ## 📈 Dashboard Snapshots
 
-Here are sample views of our Power BI dashboards:
-![Dashboard Screenshot 1](Screenshot 2025-05-09 172413.png)  
+![Dashboard Screenshot 1](screenshot_2025_05_09_172413.png)  
 *Overall PHQ-9 and stress trends*
 
-![Dashboard Screenshot 2](Screenshot 2025-05-09 172431.png)  
+![Dashboard Screenshot 2](screenshot_2025_05_09_172431.png)  
 *Breakdown by demographic and academic factors*
+
 
 ## 📅 Project Timeline & Milestones
 
