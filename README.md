@@ -71,11 +71,11 @@ The study is based on data collected from a cross-sectional online survey (Googl
    - Removed inconsistencies and null values.
    - Standardized responses for statistical analysis.
 
-2. **Data Analysis & Visualization** (🚧 In Progress)
+2. **Data Analysis & Visualization** (✅ Done)
    - Applied statistical tests to identify key predictors of academic stress and depression.
    - Developed visual reports using Power BI and Tableau.
 
-3. **Reporting & Recommendations** (🔜 Future Work)
+3. **Reporting & Recommendations** (✅ Done)
    - Prepare a comprehensive report detailing findings and suggestions.
    - Provide policy recommendations for student mental health support.
 
