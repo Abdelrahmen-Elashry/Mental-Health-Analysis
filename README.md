@@ -80,10 +80,10 @@ The dataset contains responses from Egyptian university students across differen
 
 Here are sample views of our Power BI dashboards:
 
-![Dashboard Screenshot 1](Media/screenshot_2025_05_09_172413.png)  
+![Dashboard Screenshot 1](Media/WhatsApp Image 2025-05-10 at 2.53.29 PM (1).jpeg)  
 *Overall PHQ-9 and stress trends*
 
-![Dashboard Screenshot 2](Media/screenshot_2025_05_09_172431.png)  
+![Dashboard Screenshot 2](Media/WhatsApp Image 2025-05-10 at 2.53.29 PM.jpeg)  
 *Breakdown by demographic and academic factors*
 
 
