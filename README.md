@@ -31,7 +31,7 @@ This project analyzes the impact of academic stress on the mental health of Egyp
 
 ## 📁 Dataset Overview
 
-🔗 **Survey Link:** [Academic Stress & Mental Health Survey](https://forms.gle/uexw33saHBJL1rqn7)
+🔗 **Survey Link:** [Academic Stress & Mental Health Survey](https://forms.gle/Xb5G8VbuFkk7n6ri8)
 
 The dataset contains responses from Egyptian university students across different degrees (Bachelor’s, Diploma, Master’s, Ph.D.) covering:
 
@@ -78,11 +78,14 @@ The dataset contains responses from Egyptian university students across differen
 
 ## 📈 Dashboard Snapshots
 
-![Dashboard Screenshot 1](screenshot_2025_05_09_172413.png)  
+Here are sample views of our Power BI dashboards:
+
+![Dashboard Screenshot 1](Media/screenshot_2025_05_09_172413.png)  
 *Overall PHQ-9 and stress trends*
 
-![Dashboard Screenshot 2](screenshot_2025_05_09_172431.png)  
+![Dashboard Screenshot 2](Media/screenshot_2025_05_09_172431.png)  
 *Breakdown by demographic and academic factors*
+
 
 
 ## 📅 Project Timeline & Milestones
