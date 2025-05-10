@@ -148,11 +148,16 @@ Comfort in expressing emotions to:
 
 ## 📈 Dashboard Snapshots
 
-![Dashboard 1](Media/WhatsApp%20Image%202025-05-10%20at%202.53.29%20PM.jpeg)  
-*Overall PHQ-9 and stress trends*
-
-![Dashboard 2](Media/WhatsApp%20Image%202025-05-10%20at%202.53.29%20PM%20(1).jpeg)  
+![Dashboard 1](Media/Dashboard_Page_1.png)
 *Breakdown by demographic and academic factors*
+
+
+![Dashboard 2](Media/Dashboard_Page_2.png)  
+*Overall PHQ-9 trends*
+
+
+![Dashboard 2](Media/Dashboard_Page_3.png)  
+*Overall stress trends*
 
 ---
 
