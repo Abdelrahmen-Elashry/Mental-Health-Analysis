@@ -152,8 +152,12 @@ Comfort in expressing emotions to:
 *Breakdown by demographic and academic factors*
 
 
+
+
 ![Dashboard 2](Media/Dashboard_Page_2.png)  
 *Overall PHQ-9 trends*
+
+
 
 
 ![Dashboard 2](Media/Dashboard_Page_3.png)  
