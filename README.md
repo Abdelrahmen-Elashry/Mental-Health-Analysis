@@ -193,7 +193,7 @@ Comfort in expressing emotions to:
 |------------------------------------------------------------------------------|---------------------------|
 | [Ahmed Elmekawy](https://www.linkedin.com/in/ahmed-el-mekawy)               | Data Cleaning & Preparation |
 | [Abdelrahmen Elashry](https://www.linkedin.com/in/abdelrahmen-elashry)     | Power BI & Visualization  |
-| [Hajar Hasaballah](https://www.linkedin.com/in/hajar-hasaballa)            | Survey Design & Research  |
+| [Hajar Hasaballah](https://www.linkedin.com/in/hajar-hasaballa)            |Power query&Data coding& Research  |
 | [Mariam Rabi](https://www.linkedin.com/in/mariam-mmr)                       | ML Insights & Documentation |
 
 ---
